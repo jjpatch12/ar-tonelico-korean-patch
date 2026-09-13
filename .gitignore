@@ -1,0 +1,4 @@
+assets/
+*.iso
+*.iso.partial
+*.xdelta
